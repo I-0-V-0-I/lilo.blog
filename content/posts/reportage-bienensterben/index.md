@@ -4,6 +4,7 @@ date = "2024-06-18"
 draft = false
 pinned = false
 tags = ["Bienen", "Bienensterben", "Landwirtschaft", "Reportage"]
+description = "Bienensterben\nÜberall wird von «Save the bees» gesprochen, doch müssen die Bienen wirklich gerettet werden?\n"
 +++
 Der Himmel strahlt in einem hellen Blau und die Sonne wärmt die Luft. Das perfekte Wetter für die Bienen, die in Massen die Eingänge der Bienenstöcke passieren, um für das Volk Nahrung zu sammeln.\
 «Heute ist das Wetter wirklich genial für die Bienen!», meint Samuel zufrieden. Der 90-jährige Imker schaut zufrieden seinen Bienen bei der Nahrungssuche zu.\
