@@ -28,8 +28,9 @@ Somit unterstreicht der Film die massgebliche Aussage Einsteins und führt den Z
 
 <!--EndFragment-->
 
+## Die Varroamilbe «Der Feind der Bienen» 
+
 ```
-Die Varroamilbe «Der Feind der Bienen» 
 Zur Kenntnis: Die Varroamilbe ist ein Insekt, welches ihre Eier in die Waben der Bienen
 pflanzt und sich auch auf den Kopf oder den Rücken heftet, wo sie dann Blut saugen und
 somit Viren auf ihre Opfer übertragen können. Diese Viren führen zu akuter Paralyse, 
@@ -43,6 +44,42 @@ Herr Müller übernahm 1984 ein Bienenhaus mit einigen Völkern. Zu dieser Zeit 
 Herr Müller merkte zuerst selbst nicht viel davon, denn 1985 hatte er sein bestes Honigjahr. Pro Volk konnte er durchschnittlich 65 Kilogramm Honig ernten. In letzter Zeit sind es hingegen nur noch 20 Kilogramm pro Volk in einem Jahr.\
 Doch auch seine Bienen blieben nicht lange unverschont. Anfangs wurden die Völker mit Giftstreifen behandelt. Das tat auch Herr Müller. Doch als er im Herbst 1985 so einen Streifen in die Bienenkästen legte, starben darauf die meisten seiner kleinen Arbeiterinnen. Das Gift eliminierte mit 95% Erfolgsquote Milben. Allerdings war es so stark, dass nicht nur die schädlichen Milben, sondern auch viele der Honigbienen daran eingingen. Zudem entwickelten die Schädlinge eine Immunität dagegen. Schnell wurde klar, dass das nicht die Lösung sein konnte.\
 Seither benutzt man Ameisen- und Oxalsäure zur Behandlung. Komplett bekämpfen kann man die Milbe aber bis heute nicht. Die Varroamilbe stellt daher auch aktuell noch das grösste Problem für Imker*innen dar. Jährlich müssen sie ihre Völker deshalb behandeln.
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
+## **Weitere Ursachen für das Bienensterben**
+
+\
+Auch andere Faktoren, wie der Klimawandel und verschwindende Grünflächen beeinflussen die Gesundheit der Bienen stark. Zusätzlich gibt es seit letztem Jahr auch noch asiatische Hornissen im Kanton Bern, die sich mitunter von unseren Honigsammlerinnen ernähren**.**
+
+„Die Asiatischen Hornissen kreisen meistens um den Bienenstock und warten, bis ihre Beute aus dem Nest kommt,“ berichtete uns Herr Weber. „Das kann dazu führen, dass die Bienen teilweise nicht mehr aus ihren Stöcken herauskommen und dann zu wenig Nahrung haben.“
+
+Für die Problematik mit den asiatischen Hornissen gibt es leider noch keine Lösung
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
+## **Ist das Bienensterben-Problem wirklich vorhanden?** 
+
+Der Begriff Bienensterben wird deshalb sehr oft benutzt, da tatsächlich sehr viele der kleinen Brummer sterben. Doch die Lage der Honigbienen sieht nicht [ganz so](<>) schlimm aus, wie in den Medien oft verkündet wird. Die Imker*innen sorgen dafür, dass ihre Völker möglichst gesund bleiben und immer mehr Völker entstehen können. Darum ist die Anzahl der Honigbienen seit 1961 sogar um circa 83 Prozent gestiegen.\
+Man kann die Imker\*innen sehr gut mit Erziehungsberechtigten vergleichen. Sie müssen auf ihre Völker aufpassen, diese ernähren und noch vieles mehr, wie z. B. vor Krankheiten schützen. Wenn die Imker\*innen nicht Sorge für ihre Nutztiere tragen, dann fliegen die diese von ihrem Zuhause weg.
+
+
+
+## **Stadtimkerei, ist das die Lösung?** 
+
+Aufgrund der Save-the-Bees-Bewegung ist die Stadtimkerei sehr stark im Trend. Immer mehr Leute halten Bienenvölker in der Stadt, denn in der Stadt finden die Tiere sehr viel Nahrung. Herr Weber ist auch einer davon. Er selbst besitzt 15 Völker. Er erwähnte, dass das Wichtigste die Zeit sei, denn die Honigbienen bräuchten sehr viel Fürsorge. Manche Stadtimker*innen vernachlässigen leider diese Arbeit. Im schlimmsten Fall kann unverantwortliches Imkern in der Stadt sogar zu einer Varroamilben-Kontamination führen.\
+Auch wenn in der Stadtimkerei die Kontrolle der Gesundheit der Bienen wenig gefördert wird, gibt es sehr viele Vorteile: Obschon es irrational klingen mag, dass in Städten gute Bedingungen für die kleinen Brummer herrschen, ist das der Fall: viel Grünflächen, diverse Pflanzenarten, wenig Pestizide und keine Monokulturen. Das sind ideale Bedingungen für die kleinen Bestäuber. In den Städten leben deshalb auch viele Wildbienen. Die Idee ist sehr gut und einige Völker in der Stadt sind auf jeden Fall vorteilhaft, doch wenn es zu viele gibt, schadet es den Wildbienen.\
+Wegen der stark ansteigenden Anzahl an Honigbienen in den Städten droht nun, dass die Wildbienen verdrängt werden.  Mit exzessiver Stadtimkerei hilft man deshalb den Falschen, denn die Honigbienen sind zwar sehr wichtig, jedoch nicht gefährdet.
+
+Die meist solitär lebenden Wildbienen sind, wie der Name schon sagt, wild und haben deshalb keine Menschen, die aktiv zu ihnen schauen. Aus dem Grund sind diese deutlich stärker von Pestiziden, Klimawandel und von schwindenden Nahrungsquellen betroffen. Von letzterem sind sie am stärksten beeinflusst, da sie, ungleich der Honigbiene meist spezialisiert sind auf eine bestimmte Pflanze. Die Wildbienen haben also nicht eine grosse Auswahl an Nahrungsquellen, wie ihre domestizierten Verwandten. Deshalb ist es für diese besonders schlimm, wenn die Pflanze verschwindet, auf die sie spezialisiert sind. Sie haben kaum Alternativen und verhungern deshalb schneller.
 
 <!--EndFragment-->
 
