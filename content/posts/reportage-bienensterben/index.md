@@ -121,7 +121,7 @@ Wir müssen etwas unternehmen, denn ohne sie würde die Biodiversität um einige
 ## **Tipps um den Bienen zu helfen:**
 
 ```
-<!--\[if !supportLists]-->1.      <!--\[endif]-->Kaufen von Bioprodukten
+1.  Kaufen von Bioprodukten
 
 Bei der Zucht von Bioprodukten werden keine chemisch-synthetische Pflanzenmittel 
 eingesetzt. Diese schwächen das Immunsystem von Bienen und greifen sogar das 
@@ -130,20 +130,20 @@ geschwächt wird. Das macht sie auch gleichzeitig anfälliger für Krankheiten u
 Parasiten. Die Pestizide sind deshalb sehr schädlich und sollten deshalb weniger,
 bis gar nicht eingesetzt werden.
 
-<!--\[if !supportLists]-->2.      <!--\[endif]-->Nahrungsquellen anbieten
+2.  Nahrungsquellen anbieten
 
 Ideal wäre, wenn man jede*r den eigenen Garten in eine Wildwiese umwandeln würde,
 auf der verschiedene Pflanzen und Blumen wachsen könnten. Es ist aber klar, dass das
 oftmals nicht möglich ist. Es hilft aber auch schon, wenn man einige Pflanzen und
 Blumen rausstellen kann, von denen sich die Bienen ernähren können.
 
-<!--\[if !supportLists]-->3.      <!--\[endif]-->Keine Pestizide gebrauchen
+3.  Keine Pestizide gebrauchen
 
 Da Pestizide die Gesundheit von den nützlichen Bestäubern stark beeinflussen ist es
 ratsam keine Pestizide zu gebrauchen. Wenn man selbst gärtnert, hat man volle
 Kontrolle über den Einsatz von Pestiziden und sollte diesen auf alle Fälle vermeiden.
 
-<!--\[if !supportLists]-->4.      <!--\[endif]-->Insektenhotels betreiben
+4.  Insektenhotels betreiben
 
 Insektenhotels sind eine tolle Dekoration für Gärten und Balkone. Gleichzeitig tun sie
 den Wildbienen sehr gut, da diesen so ein Schlafplatz und eine Paarungsstätte zur
