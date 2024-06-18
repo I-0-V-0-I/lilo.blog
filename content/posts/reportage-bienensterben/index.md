@@ -118,7 +118,7 @@ Wir müssen etwas unternehmen, denn ohne sie würde die Biodiversität um einige
 
 <!--StartFragment-->
 
-
+## **Tipps um den Bienen zu helfen:**
 
 ```
 <!--\[if !supportLists]-->1.      <!--\[endif]-->Kaufen von Bioprodukten
