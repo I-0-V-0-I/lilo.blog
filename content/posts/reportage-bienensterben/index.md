@@ -7,6 +7,6 @@ tags = ["Bienen", "Bienensterben", "Landwirtschaft", "Reportage"]
 image = "samuelhaus-1.jpg"
 description = "Bienensterben\nÜberall wird von «Save the bees» gesprochen, doch müssen die Bienen wirklich gerettet werden?\n"
 +++
-![Herrn Grossenbachers Bienenhaus](samuelhaus-1.jpg "Samuels Bienenhaus")
+![Herrn Grossenbachers Bienenhaus](samuelhaus-1.jpg "Herrn Grossenbachers Bienenhaus")
 
-![Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022](bienen-1.jpg)
+![Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022](bienen-1.jpg "Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022")
