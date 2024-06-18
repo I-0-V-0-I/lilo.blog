@@ -1,5 +1,5 @@
 +++
-title = "Reportage - Bienensterben"
+title = "Bienensterben"
 date = "2024-06-18"
 draft = false
 pinned = false
@@ -136,5 +136,13 @@ Da Pestizide die Gesundheit von den nützlichen Bestäubern stark beeinflussen i
 
 Insektenhotels sind eine tolle Dekoration für Gärten und Balkone. Gleichzeitig tun sie den Wildbienen sehr gut, da diesen so ein Schlafplatz und eine Paarungsstätte zur Verfügung steht.\
 Und solche Schlaf- und Nistplätze sind wirklich einfach herzustellen, da man dafür nur totes Holz mit gebohrten Löchern rausstellen muss.
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
+Herr Müller und Herr Weber waren sich einig: «Die Natur ist das Wichtigste für die Bienen, sowohl für Honig-, wie auch für Wildbienen.» Pestizide, Monokulturen und das Verschwinden von Grünflächen schaden den nützlichen Bestäubern. Die kleinen Insekten sind aber in ihrer Funktion als Bestäuber auch einer der wichtigsten Bestandteile der Natur. Wenn sie aussterben würden, gäbe es ganze Kettenreaktionen in verschiedenen Ökosystemen, durch die auch viele andere Spezien verschwinden würden. Es wäre eine Katastrophe, würde das Eintreffen. Damit die Biodiversität bestehen bleiben kann, muss etwas unternommen werden, um besonders Wildbienen zu helfen, denn die werden zurzeit vernachlässigt.
 
 <!--EndFragment-->
