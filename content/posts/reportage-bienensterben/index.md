@@ -160,6 +160,10 @@ nur totes Holz mit gebohrten Löchern rausstellen muss.
 
 
 
-Herr Müller und Herr Weber waren sich einig: «Die Natur ist das Wichtigste für die Bienen, sowohl für Honig-, wie auch für Wildbienen.» Pestizide, Monokulturen und das Verschwinden von Grünflächen schaden den nützlichen Bestäubern. Die kleinen Insekten sind aber in ihrer Funktion als Bestäuber auch einer der wichtigsten Bestandteile der Natur. Wenn sie aussterben würden, gäbe es ganze Kettenreaktionen in verschiedenen Ökosystemen, durch die auch viele andere Spezien verschwinden würden. Es wäre eine Katastrophe, würde das Eintreffen. Damit die Biodiversität bestehen bleiben kann, muss etwas unternommen werden, um besonders Wildbienen zu helfen, denn die werden zurzeit vernachlässigt.
+Herr Müller und Herr Weber waren sich einig: 
+
+> «Die Natur ist das Wichtigste für die Bienen, sowohl für Honig-, wie auch für Wildbienen.»
+
+Pestizide, Monokulturen und das Verschwinden von Grünflächen schaden den nützlichen Bestäubern. Die kleinen Insekten sind aber in ihrer Funktion als Bestäuber auch einer der wichtigsten Bestandteile der Natur. Wenn sie aussterben würden, gäbe es ganze Kettenreaktionen in verschiedenen Ökosystemen, durch die auch viele andere Spezien verschwinden würden. Es wäre eine Katastrophe, würde das Eintreffen. Damit die Biodiversität bestehen bleiben kann, muss etwas unternommen werden, um besonders Wildbienen zu helfen, denn die werden zurzeit vernachlässigt.
 
 <!--EndFragment-->
