@@ -56,7 +56,7 @@ Seither benutzt man Ameisen- und Oxalsäure zur Behandlung. Komplett bekämpfen 
 \
 Auch andere Faktoren, wie der Klimawandel und verschwindende Grünflächen beeinflussen die Gesundheit der Bienen stark. Zusätzlich gibt es seit letztem Jahr auch noch asiatische Hornissen im Kanton Bern, die sich mitunter von unseren Honigsammlerinnen ernähren**.**
 
-„Die Asiatischen Hornissen kreisen meistens um den Bienenstock und warten, bis ihre Beute aus dem Nest kommt,“ berichtete uns Herr Weber. „Das kann dazu führen, dass die Bienen teilweise nicht mehr aus ihren Stöcken herauskommen und dann zu wenig Nahrung haben.“
+»Die Asiatischen Hornissen kreisen meistens um den Bienenstock und warten, bis ihre Beute aus dem Nest kommt,« berichtete uns Herr Weber. »Das kann dazu führen, dass die Bienen teilweise nicht mehr aus ihren Stöcken herauskommen und dann zu wenig Nahrung haben.«
 
 Für die Problematik mit den asiatischen Hornissen gibt es leider noch keine Lösung
 
@@ -68,7 +68,7 @@ Für die Problematik mit den asiatischen Hornissen gibt es leider noch keine Lö
 
 ## **Ist das Bienensterben-Problem wirklich vorhanden?** 
 
-Der Begriff Bienensterben wird deshalb sehr oft benutzt, da tatsächlich sehr viele der kleinen Brummer sterben. Doch die Lage der Honigbienen sieht nicht [ganz so](<>) schlimm aus, wie in den Medien oft verkündet wird. Die Imker*innen sorgen dafür, dass ihre Völker möglichst gesund bleiben und immer mehr Völker entstehen können. Darum ist die Anzahl der Honigbienen seit 1961 sogar um circa 83 Prozent gestiegen.\
+Der Begriff Bienensterben wird deshalb sehr oft benutzt, da tatsächlich sehr viele der kleinen Brummer sterben. Doch die Lage der Honigbienen sieht nicht so schlimm aus, wie in den Medien oft verkündet wird. Die Imker*innen sorgen dafür, dass ihre Völker möglichst gesund bleiben und immer mehr Völker entstehen können. Darum ist die Anzahl der Honigbienen seit 1961 sogar um circa 83 Prozent gestiegen.\
 Man kann die Imker\*innen sehr gut mit Erziehungsberechtigten vergleichen. Sie müssen auf ihre Völker aufpassen, diese ernähren und noch vieles mehr, wie z. B. vor Krankheiten schützen. Wenn die Imker\*innen nicht Sorge für ihre Nutztiere tragen, dann fliegen die diese von ihrem Zuhause weg.
 
 
@@ -86,8 +86,8 @@ Die meist solitär lebenden Wildbienen sind, wie der Name schon sagt, wild und h
 ## Wildbienen
 
 ```
-In der Schweiz gibt es über 600 verschiedene Arten von Wildbienen, wovon fast die
-Hälfte bedroht oder bereits als ausgestorben gelten. Mit dem Schwinden dieser Tiere,
+In der Schweiz gibt es rund 615 verschiedene Arten von Wildbienen, wovon 45% bedroht
+sind oder bereits als ausgestorben gelten. Mit dem Schwinden dieser Tiere,
 leidet auch die Biodiversität stark. Die wilden Brummer sind meist auf eine Pflanze 
 spezialisiert, die manchmal auch nur von dieser Art von Biene bestäubt werden kann. 
 Ausserdem sind die wilden meist effizientere Bestäuber als Honigbienen. So ist die 
