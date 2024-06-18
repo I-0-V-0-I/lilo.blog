@@ -101,3 +101,40 @@ es nämlich alle Bestäuberarten.
 ```
 
 ![Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022](bienen-1.jpg "Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022")
+
+
+
+<!--StartFragment-->
+
+## Der Blick in die Zukunft  
+
+Die Prognose ist klar: Wenn man nichts unternimmt, wird es den Wildbienen immer schlechter gehen. Im Extremfall könnten die meisten Arten sogar aussterben. Die Save-the-Bees. Bewegung ist prinzipiell sehr gut, doch viele missinterpretieren sie, weil wir beim Stichwort Biene immer an Honigbienen denken. Dabei müssen diese gar nicht noch mehr gerettet werden. Diese Arbeit wird bereits von den Imker*innen erledigt.\
+Die Bestäuber, die wirklich Hilfe und mehr Aufmerksamkeit benötigen, das sind die Wildbienen. Ihnen wird nicht genügend geholfen, weshalb fast die Hälfte dieser Arten vom Aussterben bedroht sind.\
+Wir müssen etwas unternehmen, denn ohne sie würde die Biodiversität um einiges sinken und es käme zu ganzen Kettenreaktionen in Ökosystemen, die das Aussterben vieler weiterer Tiere und Pflanzen zur Folge hätte. Einige Institutionen wie zum Beispiel das Institut für Bienengesundheit der Universität Bern stellen Nachforschungen an, um den bedrohten Tieren zu helfen. Doch man muss nicht Forscher*in sein um Hilfe anzubieten. Jede Person trägt auch ein kleines Stückchen Verantwortung für den Bestand der Wildbienen.
+
+<!--EndFragment-->
+
+
+
+<!--StartFragment-->
+
+
+
+<!--\[if !supportLists]-->1.      <!--\[endif]-->Kaufen von Bioprodukten
+
+Bei der Zucht von Bioprodukten werden keine chemisch-synthetische Pflanzenmittel eingesetzt. Diese schwächen das Immunsystem von Bienen und greifen sogar das Nervensystem an, was dazu führt, dass deren Orientierungsvermögen und Gedächtnis geschwächt wird. Das macht sie auch gleichzeitig anfälliger für Krankheiten und Parasiten. Die Pestizide sind deshalb sehr schädlich und sollten deshalb weniger, bis gar nicht eingesetzt werden.
+
+<!--\[if !supportLists]-->2.      <!--\[endif]-->Nahrungsquellen anbieten
+
+Ideal wäre, wenn man jede*r den eigenen Garten in eine Wildwiese umwandeln würde, auf der verschiedene Pflanzen und Blumen wachsen könnten. Es ist aber klar, dass das oftmals nicht möglich ist. Es hilft aber auch schon, wenn man einige Pflanzen und Blumen rausstellen kann, von denen sich die Bienen ernähren können.
+
+<!--\[if !supportLists]-->3.      <!--\[endif]-->Keine Pestizide gebrauchen
+
+Da Pestizide die Gesundheit von den nützlichen Bestäubern stark beeinflussen ist es ratsam keine Pestizide zu gebrauchen. Wenn man selbst gärtnert, hat man volle Kontrolle über den Einsatz von Pestiziden und sollte diesen auf alle Fälle vermeiden.
+
+<!--\[if !supportLists]-->4.      <!--\[endif]-->Insektenhotels betreiben
+
+Insektenhotels sind eine tolle Dekoration für Gärten und Balkone. Gleichzeitig tun sie den Wildbienen sehr gut, da diesen so ein Schlafplatz und eine Paarungsstätte zur Verfügung steht.\
+Und solche Schlaf- und Nistplätze sind wirklich einfach herzustellen, da man dafür nur totes Holz mit gebohrten Löchern rausstellen muss.
+
+<!--EndFragment-->
