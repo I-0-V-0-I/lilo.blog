@@ -7,7 +7,7 @@ tags = ["Bienen", "Bienensterben", "Landwirtschaft", "Reportage"]
 image = "samuelhaus-1.jpg"
 description = "Bienensterben\nÜberall wird von «Save the bees» gesprochen, doch müssen die Bienen wirklich gerettet werden?\n"
 +++
-![](samuelhaus-1.jpg "Samuels Bienenhaus")
+![Samuels Bienenhaus](samuelhaus-1.jpg "Samuels Bienenhaus")
 
 Der Himmel strahlt in einem hellen Blau und die Sonne wärmt die Luft. Das perfekte Wetter für die Bienen, die in Massen die Eingänge der Bienenstöcke passieren, um für das Volk Nahrung zu sammeln.\
 «Heute ist das Wetter wirklich genial für die Bienen!», meint Samuel zufrieden. Der 90-jährige Imker schaut zufrieden seinen Bienen bei der Nahrungssuche zu.\
