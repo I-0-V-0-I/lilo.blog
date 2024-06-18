@@ -73,7 +73,7 @@ Man kann die Imker\*innen sehr gut mit Erziehungsberechtigten vergleichen. Sie m
 
 
 
-## **Stadtimkerei, ist das die Lösung?** 
+## **Stadtimkerei, ist das die Lösung?**
 
 Aufgrund der Save-the-Bees-Bewegung ist die Stadtimkerei sehr stark im Trend. Immer mehr Leute halten Bienenvölker in der Stadt, denn in der Stadt finden die Tiere sehr viel Nahrung. Herr Weber ist auch einer davon. Er selbst besitzt 15 Völker. Er erwähnte, dass das Wichtigste die Zeit sei, denn die Honigbienen bräuchten sehr viel Fürsorge. Manche Stadtimker*innen vernachlässigen leider diese Arbeit. Im schlimmsten Fall kann unverantwortliches Imkern in der Stadt sogar zu einer Varroamilben-Kontamination führen.\
 Auch wenn in der Stadtimkerei die Kontrolle der Gesundheit der Bienen wenig gefördert wird, gibt es sehr viele Vorteile: Obschon es irrational klingen mag, dass in Städten gute Bedingungen für die kleinen Brummer herrschen, ist das der Fall: viel Grünflächen, diverse Pflanzenarten, wenig Pestizide und keine Monokulturen. Das sind ideale Bedingungen für die kleinen Bestäuber. In den Städten leben deshalb auch viele Wildbienen. Die Idee ist sehr gut und einige Völker in der Stadt sind auf jeden Fall vorteilhaft, doch wenn es zu viele gibt, schadet es den Wildbienen.\
@@ -82,5 +82,22 @@ Wegen der stark ansteigenden Anzahl an Honigbienen in den Städten droht nun, da
 Die meist solitär lebenden Wildbienen sind, wie der Name schon sagt, wild und haben deshalb keine Menschen, die aktiv zu ihnen schauen. Aus dem Grund sind diese deutlich stärker von Pestiziden, Klimawandel und von schwindenden Nahrungsquellen betroffen. Von letzterem sind sie am stärksten beeinflusst, da sie, ungleich der Honigbiene meist spezialisiert sind auf eine bestimmte Pflanze. Die Wildbienen haben also nicht eine grosse Auswahl an Nahrungsquellen, wie ihre domestizierten Verwandten. Deshalb ist es für diese besonders schlimm, wenn die Pflanze verschwindet, auf die sie spezialisiert sind. Sie haben kaum Alternativen und verhungern deshalb schneller.
 
 <!--EndFragment-->
+
+## Wildbienen
+
+```
+In der Schweiz gibt es über 600 verschiedene Arten von Wildbienen, wovon fast die
+Hälfte bedroht oder bereits als ausgestorben gelten. Mit dem Schwinden dieser Tiere,
+leidet auch die Biodiversität stark. Die wilden Brummer sind meist auf eine Pflanze 
+spezialisiert, die manchmal auch nur von dieser Art von Biene bestäubt werden kann. 
+Ausserdem sind die wilden meist effizientere Bestäuber als Honigbienen. So ist die 
+gehörnte Mauerbiene bis zu 100-mal effektiver beim Bestäuben von Apfelblüten als die 
+Honigbiene. Trotzdem gelten die domestizierten Honigsammlerinnen als wichtigste 
+Bestäuber, da sie viele verschiedene Pflanzen befruchten können und in grossen Mengen
+zu finden sind. Da diese aber nicht bedroht sind, ist es vor allem wichtig, dass man 
+den Wildbienen mehr Aufmerksamkeit schenkt. Für eine reichhaltige Biodiversität braucht
+es nämlich alle Bestäuberarten.
+
+```
 
 ![Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022](bienen-1.jpg "Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022")
