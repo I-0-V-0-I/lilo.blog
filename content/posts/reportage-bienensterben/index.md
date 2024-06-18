@@ -37,4 +37,13 @@ Flügeldeformationen sowie Blutkrankheiten. Dies tötet ein Bienenvolk innerhalb
 bis drei Jahren, wenn man nichts dagegen unternimmt. 
 ```
 
+<!--StartFragment-->
+
+Herr Müller übernahm 1984 ein Bienenhaus mit einigen Völkern. Zu dieser Zeit trat auch die berüchtigte, aus Asien stammende, Varroamilbe erstmals in der Schweiz auf.\
+Herr Müller merkte zuerst selbst nicht viel davon, denn 1985 hatte er sein bestes Honigjahr. Pro Volk konnte er durchschnittlich 65 Kilogramm Honig ernten. In letzter Zeit sind es hingegen nur noch 20 Kilogramm pro Volk in einem Jahr.\
+Doch auch seine Bienen blieben nicht lange unverschont. Anfangs wurden die Völker mit Giftstreifen behandelt. Das tat auch Herr Müller. Doch als er im Herbst 1985 so einen Streifen in die Bienenkästen legte, starben darauf die meisten seiner kleinen Arbeiterinnen. Das Gift eliminierte mit 95% Erfolgsquote Milben. Allerdings war es so stark, dass nicht nur die schädlichen Milben, sondern auch viele der Honigbienen daran eingingen. Zudem entwickelten die Schädlinge eine Immunität dagegen. Schnell wurde klar, dass das nicht die Lösung sein konnte.\
+Seither benutzt man Ameisen- und Oxalsäure zur Behandlung. Komplett bekämpfen kann man die Milbe aber bis heute nicht. Die Varroamilbe stellt daher auch aktuell noch das grösste Problem für Imker*innen dar. Jährlich müssen sie ihre Völker deshalb behandeln.
+
+<!--EndFragment-->
+
 ![Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022](bienen-1.jpg "Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022")
