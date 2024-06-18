@@ -158,8 +158,6 @@ nur totes Holz mit gebohrten Löchern rausstellen muss.
 
 <!--StartFragment-->
 
-
-
 Herr Müller und Herr Weber waren sich einig: 
 
 > «Die Natur ist das Wichtigste für die Bienen, sowohl für Honig-, wie auch für Wildbienen.»
