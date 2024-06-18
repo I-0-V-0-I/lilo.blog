@@ -147,7 +147,7 @@ Kontrolle über den Einsatz von Pestiziden und sollte diesen auf alle Fälle ver
 
 Insektenhotels sind eine tolle Dekoration für Gärten und Balkone. Gleichzeitig tun sie
 den Wildbienen sehr gut, da diesen so ein Schlafplatz und eine Paarungsstätte zur
-Verfügung steht.\
+Verfügung steht.
 Und solche Schlaf- und Nistplätze sind wirklich einfach herzustellen, da man dafür
 nur totes Holz mit gebohrten Löchern rausstellen muss.
 ```
