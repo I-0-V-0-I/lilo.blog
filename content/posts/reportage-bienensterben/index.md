@@ -34,9 +34,9 @@ Im Film wird gezeigt, wie die Bestäubung von Pflanzen vonstattengeht. Man sieht
 
 {{<box>}}
 
-Zur Kenntnis: Die Varroamilbe ist ein Insekt, welches ihre Eier in die Waben der Bienen
-pflanzt und sich auch auf den Kopf oder den Rücken heftet, wo sie dann Blut saugen und
-somit Viren auf ihre Opfer übertragen können. Diese Viren führen zu akuter Paralyse, 
+Zur Kenntnis: Die Varroamilbe ist ein Insekt, welches seine Eier in die Waben der Bienen
+pflanzt und sich auch an deren Kopf oder den Rücken heftet, wo sie dann Blut saugt und
+somit Viren auf ihre Opfer übertragen kann. Diese Viren führen zu akuter Paralyse, 
 Flügeldeformationen sowie Blutkrankheiten. Dies tötet ein Bienenvolk innerhalb von einem 
 bis drei Jahren, wenn man nichts dagegen unternimmt. 
 
