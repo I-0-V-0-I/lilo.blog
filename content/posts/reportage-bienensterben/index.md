@@ -75,7 +75,8 @@ Die meist solitär lebenden Wildbienen sind, wie der Name schon sagt, wild und h
 
 ## Wildbienen
 
-```
+{{<box>}}
+
 In der Schweiz gibt es rund 615 verschiedene Arten von Wildbienen, wovon 45% bedroht
 sind oder bereits als ausgestorben gelten. Mit dem Schwinden dieser Tiere,
 leidet auch die Biodiversität stark. Die wilden Brummer sind meist auf eine Pflanze 
@@ -87,7 +88,8 @@ Bestäuber, da sie viele verschiedene Pflanzen befruchten können und in grossen
 zu finden sind. Da diese aber nicht bedroht sind, ist es vor allem wichtig, dass man 
 den Wildbienen mehr Aufmerksamkeit schenkt. Für eine reichhaltige Biodiversität braucht
 es nämlich alle Bestäuberarten.
-```
+
+{{</box>}}
 
 ![Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022](bienen-1.jpg "Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022")
 
