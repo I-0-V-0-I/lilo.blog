@@ -6,7 +6,7 @@ pinned = false
 tags = ["Bienen", "Bienensterben", "Landwirtschaft", "Reportage"]
 image = "samuelhaus-1.jpg"
 description = "Bienensterben\nÜberall wird von «Save the bees» gesprochen, doch müssen die Bienen wirklich gerettet werden?\n"
-footnotes = "Eine Reportage von Yuuki Cabassu, Luca Schelling, Nao Schenker"
+footnotes = "Quellen Bilder: Nao Schenker - 17.062024,\n\nhttps://www.bafu.admin.ch/bafu/de/home/themen/biodiversitaet/dossiers/wild-und-wertvoll.html - 19.05.2022\n\n\n\n\\*die Namen wurden aufgrund der Geheimhaltung verändert"
 +++
 ![Herrn Müllers Bienenhaus](samuelhaus-1.jpg "Herrn Müllers Bienenhaus")
 
@@ -50,7 +50,7 @@ Seither benutzt man Ameisen- und Oxalsäure zur Behandlung. Komplett bekämpfen 
 \
 Auch andere Faktoren, wie der Klimawandel und verschwindende Grünflächen beeinflussen die Gesundheit der Bienen stark. Zusätzlich gibt es seit letztem Jahr auch noch asiatische Hornissen im Kanton Bern, die sich mitunter von unseren Honigsammlerinnen ernähren**.**
 
-«Die Asiatischen Hornissen kreisen meistens um den Bienenstock und warten, bis ihre Beute aus dem Nest » berichtete uns Herr Weber. «Das kann dazu führen, dass die Bienen teilweise nicht mehr aus ihren Stöcken herauskommen und dann zu wenig Nahrung haben.»
+«Die Asiatischen Hornissen kreisen meistens um den Bienenstock und warten, bis ihre Beute aus dem Nest » berichtete uns Herr Weber*. «Das kann dazu führen, dass die Bienen teilweise nicht mehr aus ihren Stöcken herauskommen und dann zu wenig Nahrung haben.»
 
 Für die Problematik mit den asiatischen Hornissen gibt es leider noch keine Lösung
 
