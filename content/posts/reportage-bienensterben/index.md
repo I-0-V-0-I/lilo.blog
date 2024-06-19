@@ -66,7 +66,7 @@ Für die Problematik mit den asiatischen Hornissen gibt es leider noch keine Lö
 
 <!--StartFragment-->
 
-## **Ist das Bienensterben-Problem wirklich vorhanden?** 
+## **Gibt es das Bienensterben-Problem wirklich?** 
 
 Der Begriff Bienensterben wird deshalb sehr oft benutzt, da tatsächlich sehr viele der kleinen Brummer sterben. Doch die Lage der Honigbienen sieht nicht so schlimm aus, wie in den Medien oft verkündet wird. Die Imker*innen sorgen dafür, dass ihre Völker möglichst gesund bleiben und immer mehr Völker entstehen können. Darum ist die Anzahl der Honigbienen seit 1961 sogar um circa 83 Prozent gestiegen.\
 Man kann die Imker\*innen sehr gut mit Erziehungsberechtigten vergleichen. Sie müssen auf ihre Völker aufpassen, diese ernähren und noch vieles mehr, wie z. B. vor Krankheiten schützen. Wenn die Imker\*innen nicht Sorge für ihre Nutztiere tragen, dann fliegen die diese von ihrem Zuhause weg.
