@@ -94,7 +94,7 @@ Die meist solitär lebenden Wildbienen sind, wie der Name schon sagt, wild und h
 In der Schweiz gibt es rund 615 verschiedene Arten von Wildbienen, wovon 45% bedroht
 sind oder bereits als ausgestorben gelten. Mit dem Schwinden dieser Tiere,
 leidet auch die Biodiversität stark. Die wilden Brummer sind meist auf eine Pflanze 
-spezialisiert, die manchmal auch nur von dieser Art von Biene bestäubt werden kann. 
+spezialisiert, die manchmal auch nur von dieser Art von Biene bestäubt werden kann. Viele Pflanzen, welche oft von Honigbienen gemieden oder gar ganz unberührt gelassen werden, sind auf die Bestäubung von Wildbienen angewiesen.
 Ausserdem sind die wilden meist effizientere Bestäuber als Honigbienen. So ist die 
 gehörnte Mauerbiene bis zu 100-mal effektiver beim Bestäuben von Apfelblüten als die 
 Honigbiene. Trotzdem gelten die domestizierten Honigsammlerinnen als wichtigste 
