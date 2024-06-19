@@ -1,5 +1,5 @@
 +++
-title = "Bienensterben"
+title = "Bienensterben - Überall wird von «Save the bees» gesprochen, doch müssen die Bienen wirklich gerettet werden?"
 date = "2024-06-18"
 draft = false
 pinned = false
@@ -8,7 +8,7 @@ image = "samuelhaus-1.jpg"
 description = "Überall wird von «Save the bees» gesprochen, doch müssen die Bienen wirklich gerettet werden?\n"
 footnotes = "Quellen Bilder: \n\nNao Schenker - 17.06.2024\n\nhttps://www.bafu.admin.ch/bafu/de/home/themen/biodiversitaet/dossiers/wild-und-wertvoll.html - 19.05.2022\n\n\n\n\\*die Namen wurden aufgrund der Geheimhaltung verändert"
 +++
-### Überall wird von «Save the bees» gesprochen, doch müssen die Bienen wirklich gerettet werden?
+
 
 ![Herrn Müllers Bienenhaus](samuelhaus-1.jpg "Herrn Müllers Bienenhaus")
 
