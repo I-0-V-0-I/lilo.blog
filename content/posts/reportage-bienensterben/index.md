@@ -3,7 +3,7 @@ title = "Bienensterben"
 date = "2024-06-18"
 draft = false
 pinned = false
-tags = ["Bienen", "Bienensterben", "Landwirtschaft", "Reportage"]
+tags = ["Bienen", "Bienensterben", "Wildbienen", "Landwirtschaft", "Nachhaltigkeit", "Reportage"]
 image = "samuelhaus-1.jpg"
 description = "Bienensterben\nÜberall wird von «Save the bees» gesprochen, doch müssen die Bienen wirklich gerettet werden?\n"
 footnotes = "Quellen Bilder: \n\nNao Schenker - 17.06.2024\n\nhttps://www.bafu.admin.ch/bafu/de/home/themen/biodiversitaet/dossiers/wild-und-wertvoll.html - 19.05.2022\n\n\n\n\\*die Namen wurden aufgrund der Geheimhaltung verändert"
@@ -97,7 +97,8 @@ es nämlich alle Bestäuberarten.
 
 ## Der Blick in die Zukunft  
 
-Die Prognose ist klar: Wenn man nichts unternimmt, wird es den Wildbienen immer schlechter gehen. Im Extremfall könnten die meisten Arten sogar aussterben. Die Save-the-Bees-Bewegung ist prinzipiell sehr gut, doch viele missinterpretieren sie, weil wir beim Stichwort Biene immer an Honigbienen denken. Dabei müssen diese gar nicht noch mehr gerettet werden. Diese Arbeit wird bereits von den Imker*innen erledigt.*Die Bestäuber, die wirklich Hilfe und mehr Aufmerksamkeit benötigen, das sind die Wildbienen. Ihnen wird nicht genügend geholfen, weshalb fast die Hälfte dieser Arten vom Aussterben bedroht sind.Wir müssen etwas unternehmen, denn ohne sie würde die Biodiversität um einiges sinken und es käme zu ganzen Kettenreaktionen in Ökosystemen, die das Aussterben vieler weiterer Tiere und Pflanzen zur Folge hätte. Einige Institutionen wie zum Beispiel das Institut für Bienengesundheit der Universität Bern stellen Nachforschungen an, um den bedrohten Tieren zu helfen. Doch man muss nicht Forscherin sein um Hilfe anzubieten. Jede Person trägt auch ein kleines Stückchen Verantwortung für den Bestand der Wildbienen.
+Die Prognose ist klar: Wenn man nichts unternimmt, wird es den Wildbienen immer schlechter gehen. Im Extremfall könnten die meisten Arten sogar aussterben. Die Save-the-Bees-Bewegung ist prinzipiell sehr gut, doch viele missinterpretieren sie, weil wir beim Stichwort Biene immer an Honigbienen denken. Dabei müssen diese gar nicht noch mehr gerettet werden. Diese Arbeit wird bereits von den Imker*innen erledigt.\
+Die Bestäuber, die wirklich Hilfe und mehr Aufmerksamkeit benötigen, das sind die Wildbienen. Ihnen wird nicht genügend geholfen, weshalb fast die Hälfte dieser Arten vom Aussterben bedroht sind.Wir müssen etwas unternehmen, denn ohne sie würde die Biodiversität um einiges sinken und es käme zu ganzen Kettenreaktionen in Ökosystemen, die das Aussterben vieler weiterer Tiere und Pflanzen zur Folge hätte. Einige Institutionen wie zum Beispiel das Institut für Bienengesundheit der Universität Bern stellen Nachforschungen an, um den bedrohten Tieren zu helfen. Doch man muss nicht Forscherin sein um Hilfe anzubieten. Jede Person trägt auch ein kleines Stückchen Verantwortung für den Bestand der Wildbienen.
 
 <!--EndFragment-->
 
