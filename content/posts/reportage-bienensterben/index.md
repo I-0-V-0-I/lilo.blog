@@ -45,7 +45,7 @@ Seither benutzt man Ameisen- und Oxalsäure zur Behandlung. Komplett bekämpfen 
 
 <!--StartFragment-->
 
-## **Weitere Ursachen für das Bienensterben**
+## Weitere Ursachen für das Bienensterben
 
 \
 Auch andere Faktoren, wie der Klimawandel und verschwindende Grünflächen beeinflussen die Gesundheit der Bienen stark. Zusätzlich gibt es seit letztem Jahr auch noch asiatische Hornissen im Kanton Bern, die sich mitunter von unseren Honigsammlerinnen ernähren**.**
@@ -63,7 +63,7 @@ Für die Problematik mit den asiatischen Hornissen gibt es leider noch keine Lö
 Der Begriff Bienensterben wird deshalb sehr oft benutzt, da tatsächlich sehr viele der kleinen Brummer sterben. Doch die Lage der Honigbienen sieht nicht so schlimm aus, wie in den Medien oft verkündet wird. Die Imker*innen sorgen dafür, dass ihre Völker möglichst gesund bleiben und immer mehr Völker entstehen können. Darum ist die Anzahl der Honigbienen seit 1961 sogar um circa 83 Prozent gestiegen.\
 Man kann die Imker\*innen sehr gut mit Erziehungsberechtigten vergleichen. Sie müssen auf ihre Völker aufpassen, diese ernähren und noch vieles mehr, wie z. B. vor Krankheiten schützen. Wenn die Imker\*innen nicht Sorge für ihre Nutztiere tragen, dann fliegen die diese von ihrem Zuhause weg.
 
-## **Stadtimkerei, ist das die Lösung?**
+## Stadtimkerei, ist das die Lösung?
 
 Aufgrund der Save-the-Bees-Bewegung ist die Stadtimkerei sehr stark im Trend. Immer mehr Leute halten Bienenvölker in der Stadt, denn in der Stadt finden die Tiere sehr viel Nahrung. Herr Weber ist auch einer davon. Er selbst besitzt 15 Völker. Er erwähnte, dass das Wichtigste die Zeit sei, denn die Honigbienen bräuchten sehr viel Fürsorge. Manche Stadtimker*innen vernachlässigen leider diese Arbeit. Im schlimmsten Fall kann unverantwortliches Imkern in der Stadt sogar zu einer Varroamilben-Kontamination führen.\
 Auch wenn in der Stadtimkerei die Kontrolle der Gesundheit der Bienen wenig gefördert wird, gibt es sehr viele Vorteile: Obschon es irrational klingen mag, dass in Städten gute Bedingungen für die kleinen Brummer herrschen, ist das der Fall: viel Grünflächen, diverse Pflanzenarten, wenig Pestizide und keine Monokulturen. Das sind ideale Bedingungen für die kleinen Bestäuber. In den Städten leben deshalb auch viele Wildbienen. Die Idee ist sehr gut und einige Völker in der Stadt sind auf jeden Fall vorteilhaft, doch wenn es zu viele gibt, schadet es den Wildbienen.\
@@ -95,15 +95,13 @@ es nämlich alle Bestäuberarten.
 
 ## Der Blick in die Zukunft  
 
-Die Prognose ist klar: Wenn man nichts unternimmt, wird es den Wildbienen immer schlechter gehen. Im Extremfall könnten die meisten Arten sogar aussterben. Die Save-the-Bees. Bewegung ist prinzipiell sehr gut, doch viele missinterpretieren sie, weil wir beim Stichwort Biene immer an Honigbienen denken. Dabei müssen diese gar nicht noch mehr gerettet werden. Diese Arbeit wird bereits von den Imker*innen erledigt.\
-Die Bestäuber, die wirklich Hilfe und mehr Aufmerksamkeit benötigen, das sind die Wildbienen. Ihnen wird nicht genügend geholfen, weshalb fast die Hälfte dieser Arten vom Aussterben bedroht sind.\
-Wir müssen etwas unternehmen, denn ohne sie würde die Biodiversität um einiges sinken und es käme zu ganzen Kettenreaktionen in Ökosystemen, die das Aussterben vieler weiterer Tiere und Pflanzen zur Folge hätte. Einige Institutionen wie zum Beispiel das Institut für Bienengesundheit der Universität Bern stellen Nachforschungen an, um den bedrohten Tieren zu helfen. Doch man muss nicht Forscher*in sein um Hilfe anzubieten. Jede Person trägt auch ein kleines Stückchen Verantwortung für den Bestand der Wildbienen.
+Die Prognose ist klar: Wenn man nichts unternimmt, wird es den Wildbienen immer schlechter gehen. Im Extremfall könnten die meisten Arten sogar aussterben. Die Save-the-Bees. Bewegung ist prinzipiell sehr gut, doch viele missinterpretieren sie, weil wir beim Stichwort Biene immer an Honigbienen denken. Dabei müssen diese gar nicht noch mehr gerettet werden. Diese Arbeit wird bereits von den Imker*innen erledigt.*Die Bestäuber, die wirklich Hilfe und mehr Aufmerksamkeit benötigen, das sind die Wildbienen. Ihnen wird nicht genügend geholfen, weshalb fast die Hälfte dieser Arten vom Aussterben bedroht sind.Wir müssen etwas unternehmen, denn ohne sie würde die Biodiversität um einiges sinken und es käme zu ganzen Kettenreaktionen in Ökosystemen, die das Aussterben vieler weiterer Tiere und Pflanzen zur Folge hätte. Einige Institutionen wie zum Beispiel das Institut für Bienengesundheit der Universität Bern stellen Nachforschungen an, um den bedrohten Tieren zu helfen. Doch man muss nicht Forscherin sein um Hilfe anzubieten. Jede Person trägt auch ein kleines Stückchen Verantwortung für den Bestand der Wildbienen.
 
 <!--EndFragment-->
 
 <!--StartFragment-->
 
-## **Tipps um den Bienen zu helfen:**
+## Tipps um den Bienen zu helfen:
 
 ```
 1.  Kaufen von Bioprodukten
@@ -117,7 +115,7 @@ bis gar nicht eingesetzt werden.
 
 2.  Nahrungsquellen anbieten
 
-Ideal wäre, wenn man jede*r den eigenen Garten in eine Wildwiese umwandeln würde,
+Ideal wäre, wenn man den eigenen Garten in eine Wildwiese umwandeln würde,
 auf der verschiedene Pflanzen und Blumen wachsen könnten. Es ist aber klar, dass das
 oftmals nicht möglich ist. Es hilft aber auch schon, wenn man einige Pflanzen und
 Blumen rausstellen kann, von denen sich die Bienen ernähren können.
