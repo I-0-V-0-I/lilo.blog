@@ -6,7 +6,7 @@ pinned = false
 tags = ["Bienen", "Bienensterben", "Wildbienen", "Landwirtschaft", "Nachhaltigkeit", "Reportage"]
 image = "samuelhaus-1.jpg"
 description = "Überall wird von «Save the bees» gesprochen, doch müssen die Bienen wirklich gerettet werden?\n"
-footnotes = "Quellen Bilder: \n\nNao Schenker - 17.06.2024\n\nhttps://www.bafu.admin.ch/bafu/de/home/themen/biodiversitaet/dossiers/wild-und-wertvoll.html - 19.05.2022\n\n\n\n\\*die Namen wurden aufgrund der Geheimhaltung verändert"
+footnotes = "Quellen Bilder: \n\nNao Schenker - 17.06.2024\n\nhttps://www.bafu.admin.ch/bafu/de/home/themen/biodiversitaet/dossiers/wild-und-wertvoll.html - 19.05.2022\n\n\n\n\\*die Namen wurden von der Redaktion verändert"
 +++
 ### Überall wird von «Save the Bees» gesprochen, doch müssen die Bienen wirklich gerettet werden?
 
