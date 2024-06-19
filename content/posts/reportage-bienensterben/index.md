@@ -48,7 +48,7 @@ Seither benutzt man Ameisen- und Oxalsäure zur Behandlung. Komplett bekämpfen 
 ## Weitere Ursachen für das Bienensterben
 
 \
-Auch andere Faktoren, wie der Klimawandel und verschwindende Grünflächen beeinflussen die Gesundheit der Bienen stark. Zusätzlich gibt es seit letztem Jahr auch noch asiatische Hornissen im Kanton Bern, die sich mitunter von unseren Honigsammlerinnen ernähren**.**
+Auch andere Faktoren, wie der Klimawandel und verschwindende Grünflächen beeinflussen die Gesundheit der Bienen stark. Zusätzlich gibt es seit letztem Jahr auch noch asiatische Hornissen im Kanton Bern, die sich mitunter von unseren Honigsammlerinnen ernähren.
 
 «Die Asiatischen Hornissen kreisen meistens um den Bienenstock und warten, bis ihre Beute aus dem Nest » berichtete uns Herr Weber*. «Das kann dazu führen, dass die Bienen teilweise nicht mehr aus ihren Stöcken herauskommen und dann zu wenig Nahrung haben.»
 
