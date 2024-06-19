@@ -8,17 +8,13 @@ image = "samuelhaus-1.jpg"
 description = "Bienensterben\nÜberall wird von «Save the bees» gesprochen, doch müssen die Bienen wirklich gerettet werden?\n"
 footnotes = "Eine Reportage von Yuuki Cabassu, Luca Schelling, Nao Schenker"
 +++
-
-
 ![Herrn Grossenbachers Bienenhaus](samuelhaus-1.jpg "Herrn Grossenbachers Bienenhaus")
-
-
 
 <!--StartFragment-->
 
-Der Himmel strahlte in einem hellen Blau und die Sonne wärmte die Luft. Das perfekte Wetter für die Bienen, die in Massen die Eingänge der Bienenstöcke passierten, um für das Volk Nahrung zu sammeln.\
-«Heute ist das Wetter wirklich genial für die Bienen!», meinte Herr Müller* zufrieden. Der 90-jährige Imker schaute stolz seinen kleinen Honigsammlerinnen bei der Nahrungssuche zu.\
-Die Szene wirkte fast schon idyllisch.\
+Der Himmel strahlt in einem hellen Blau und die Sonne wärmt die Luft. Das perfekte Wetter für die Bienen, die in Massen die Eingänge der Bienenstöcke passieren, um für das Volk Nahrung zu sammeln.\
+«Heute ist das Wetter wirklich genial für die Bienen!», meint Herr Müller* zufrieden. Der 90-jährige Imker schaut stolz seinen kleinen Honigsammlerinnen bei der Nahrungssuche zu.\
+Die Szene wirkt fast schon idyllisch.\
 Herrn Müller und seinen kleinen Nutztieren scheint es wirklich gut zu gehen. Man könnte meinen, dass alles in bester Ordnung ist.
 
 Trotzdem ist seit einiger Zeit der Begriff Bienensterben in aller Munde. Immer öfter hört man, was für schreckliche Folgen das Sterben der kleinen Tiere doch mit sich ziehe. Sogar Albert Einstein soll einst gesagt haben: «Wenn die Bienen verschwinden, hat der Mensch nur noch vier Jahre zu leben.»\
@@ -29,7 +25,7 @@ Somit unterstreicht der Film die massgebliche Aussage Einsteins und führt den Z
 
 <!--EndFragment-->
 
-## Die Varroamilbe «Der Feind der Bienen» 
+## Die Varroamilbe «Der Feind der Bienen»
 
 ```
 Zur Kenntnis: Die Varroamilbe ist ein Insekt, welches ihre Eier in die Waben der Bienen
@@ -48,8 +44,6 @@ Seither benutzt man Ameisen- und Oxalsäure zur Behandlung. Komplett bekämpfen 
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 ## **Weitere Ursachen für das Bienensterben**
@@ -63,16 +57,12 @@ Für die Problematik mit den asiatischen Hornissen gibt es leider noch keine Lö
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 ## **Ist das Bienensterben-Problem wirklich vorhanden?** 
 
 Der Begriff Bienensterben wird deshalb sehr oft benutzt, da tatsächlich sehr viele der kleinen Brummer sterben. Doch die Lage der Honigbienen sieht nicht so schlimm aus, wie in den Medien oft verkündet wird. Die Imker*innen sorgen dafür, dass ihre Völker möglichst gesund bleiben und immer mehr Völker entstehen können. Darum ist die Anzahl der Honigbienen seit 1961 sogar um circa 83 Prozent gestiegen.\
 Man kann die Imker\*innen sehr gut mit Erziehungsberechtigten vergleichen. Sie müssen auf ihre Völker aufpassen, diese ernähren und noch vieles mehr, wie z. B. vor Krankheiten schützen. Wenn die Imker\*innen nicht Sorge für ihre Nutztiere tragen, dann fliegen die diese von ihrem Zuhause weg.
-
-
 
 ## **Stadtimkerei, ist das die Lösung?**
 
@@ -98,12 +88,9 @@ Bestäuber, da sie viele verschiedene Pflanzen befruchten können und in grossen
 zu finden sind. Da diese aber nicht bedroht sind, ist es vor allem wichtig, dass man 
 den Wildbienen mehr Aufmerksamkeit schenkt. Für eine reichhaltige Biodiversität braucht
 es nämlich alle Bestäuberarten.
-
 ```
 
 ![Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022](bienen-1.jpg "Vergleich der Artenvielfalt Honigbienen-Wildbienen in der Schweiz - BAFU 19.05.2022")
-
-
 
 <!--StartFragment-->
 
@@ -114,8 +101,6 @@ Die Bestäuber, die wirklich Hilfe und mehr Aufmerksamkeit benötigen, das sind 
 Wir müssen etwas unternehmen, denn ohne sie würde die Biodiversität um einiges sinken und es käme zu ganzen Kettenreaktionen in Ökosystemen, die das Aussterben vieler weiterer Tiere und Pflanzen zur Folge hätte. Einige Institutionen wie zum Beispiel das Institut für Bienengesundheit der Universität Bern stellen Nachforschungen an, um den bedrohten Tieren zu helfen. Doch man muss nicht Forscher*in sein um Hilfe anzubieten. Jede Person trägt auch ein kleines Stückchen Verantwortung für den Bestand der Wildbienen.
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
@@ -154,8 +139,6 @@ nur totes Holz mit gebohrten Löchern rausstellen muss.
 ```
 
 <!--EndFragment-->
-
-
 
 <!--StartFragment-->
 
