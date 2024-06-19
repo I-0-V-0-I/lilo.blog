@@ -19,7 +19,11 @@ Der Himmel strahlt in einem hellen Blau und die Sonne wärmt die Luft. Das perfe
 Die Szene wirkt fast schon idyllisch.\
 Herrn Müller und seinen kleinen Nutztieren scheint es wirklich gut zu gehen. Man könnte meinen, dass alles in bester Ordnung ist.
 
-Trotzdem ist seit einiger Zeit der Begriff Bienensterben in aller Munde. Immer öfter hört man, was für schreckliche Folgen das Sterben der kleinen Tiere doch mit sich ziehe. Sogar Albert Einstein soll einst gesagt haben: «Wenn die Bienen verschwinden, hat der Mensch nur noch vier Jahre zu leben.»\
+Trotzdem ist seit einiger Zeit der Begriff Bienensterben in aller Munde. Immer öfter hört man, was für schreckliche Folgen das Sterben der kleinen Tiere doch mit sich ziehe. Sogar Albert Einstein soll einst gesagt haben: 
+
+> «Wenn die Bienen verschwinden, hat der Mensch nur noch vier Jahre zu leben.»
+
+\
 Es gibt bereits unzählige Medienbeiträge zu dem Thema. Viele davon wirken besorgniserregend. So zum Beispiel sieht man im berühmten Schweizer Dokumentarfilm «More than Honey», aus dem Jahr 2012, Horrorbilder aus China.\
 Dort wurden 1958 auf den Befehl des ehemaligen Diktators Mao Zedong alle Spatzen ausgerottet, mit der Begründung, dass diese zu viel von der Ernte wegfressen würden. Dies hatte aber gleichzeitig zur Folge, dass es eine Überpopulation von Insektenschädlingen gab, aufgrund von fehlenden Fressfeinden. Um dem entgegenzuwirken, wurden Insektengifte eingesetzt, was aber zusammen mit den Folgen schwindender Natur dazu führte, dass Bienen in grossen Teilen Chinas ausstarben.\
 Im Film wird gezeigt, wie die Bestäubung von Pflanzen vonstattengeht. Man sieht, wie Dutzende Arbeiterinnenmit Pinseln Pollen auf die einzelnen Blüten streichen. Die Menschen sind aber deutlich weniger effizient als die nützlichen Insekten, denn es braucht rund 1500 Arbeitskräfte, um die Bestäubungsarbeit von einem Bienenvolk zu ersetzen. Ausserdem sind die Personalkosten zu hoch, weshalb es auch finanziell undenkbar wäre. Es ist klar, dass das keine nachhaltige alternative Bestäubungsart sein kann.Somit unterstreicht der Film die massgebliche Aussage Einsteins und führt den Zuschauerinnen vor Augen, wie wichtig die geflügelten Nutztiere sind. Die Stadt Bern ist nicht so stark von dieser Problematik betroffen wie China. Dennoch kann man den Einfluss der Landwirtschaft in Bern nicht schönreden. Die verschiedenen Pestizide, die für bessere Ernten verwendet werden, können das Immunsystem der Insekten schädigen, teilweise so stark, dass ganze Schwärme sterben. Für die Bienen gibt es jedoch noch einige weitere Probleme.
@@ -43,7 +47,7 @@ bis drei Jahren, wenn man nichts dagegen unternimmt.
 Herr Müller übernahm 1984 ein Bienenhaus mit einigen Völkern. Zu dieser Zeit trat auch die berüchtigte, aus Asien stammende, Varroamilbe erstmals in der Schweiz auf.\
 Herr Müller merkte zuerst selbst nicht viel davon, denn 1985 hatte er sein bestes Honigjahr. Pro Volk konnte er durchschnittlich 65 Kilogramm Honig ernten. In letzter Zeit sind es hingegen nur noch 20 Kilogramm pro Volk in einem Jahr.\
 Doch auch seine Bienen blieben nicht lange unverschont. Anfangs wurden die Völker mit Giftstreifen behandelt. Das tat auch Herr Müller. Doch als er im Herbst 1985 so einen Streifen in die Bienenkästen legte, starben darauf die meisten seiner kleinen Arbeiterinnen. Das Gift eliminierte mit 95% Erfolgsquote die Varroa. Allerdings war es so stark, dass nicht nur die schädlichen Milben, sondern auch viele der Honigbienen daran eingingen. Zudem entwickelten die Schädlinge eine Immunität dagegen. Schnell wurde klar, dass das nicht die Lösung sein konnte.\
-Seither benutzt man Ameisen- und Oxalsäure zur Behandlung. Komplett bekämpfen kann man die Milbe aber bis heute nicht. Die Varroamilbe stellt daher auch aktuell noch das grösste Problem für Imker*innen dar. Jährlich müssen sie ihre Völker deshalb behandeln.
+Seither benutzt man Ameisen- und Oxalsäure zur Behandlung. Komplett bekämpfen kann man die Varroa aber bis heute nicht. Die schädliche Milbe stellt daher auch aktuell noch das grösste Problem für Imker*innen dar. Jährlich müssen sie ihre Völker deshalb behandeln.
 
 <!--EndFragment-->
 
