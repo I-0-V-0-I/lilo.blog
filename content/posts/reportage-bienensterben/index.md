@@ -1,5 +1,5 @@
 +++
-title = "Bienensterben -"
+title = "Bienensterben "
 date = "2024-06-18"
 draft = false
 pinned = false
@@ -10,7 +10,7 @@ footnotes = "Quellen Bilder: \n\nNao Schenker - 17.06.2024\n\nhttps://www.bafu.a
 +++
 ### Überall wird von «Save the Bees» gesprochen, doch müssen die Bienen wirklich gerettet werden?
 
-![Herrn Müllers Bienenhaus](samuelhaus-1.jpg "Herrn Müllers Bienenhaus")
+![Herr Müllers Bienenhaus](samuelhaus-1.jpg "Herr Müllers Bienenhaus")
 
 <!--StartFragment-->
 
@@ -48,7 +48,9 @@ Herr Müller übernahm 1984 ein Bienenhaus mit einigen Völkern. Zu dieser Zeit 
 Herr Müller merkte zuerst selbst nicht viel davon, denn 1985 hatte er sein bestes Honigjahr. Pro Volk konnte er durchschnittlich 65 Kilogramm Honig ernten. In letzter Zeit sind es hingegen nur noch 20 Kilogramm pro Volk in einem Jahr.\
 Doch auch seine Bienen blieben nicht lange unverschont. Anfangs wurden die Völker mit Giftstreifen behandelt. Das tat auch Herr Müller. Doch als er im Herbst 1985 so einen Streifen in die Bienenkästen legte, starben darauf die meisten seiner kleinen Arbeiterinnen. 
 
-«Als »
+> «Als ich in diesem Jahr die Streifen wieder aus den Kästen genommen hatte, waren die meisten Bienen bereits tot.»
+
+
 
 Das Gift eliminierte mit 95% Erfolgsquote die Varroa. Allerdings war es so stark, dass nicht nur die schädlichen Milben, sondern auch viele der Honigbienen daran eingingen. Zudem entwickelten die Schädlinge eine Immunität dagegen. Schnell wurde klar, dass das nicht die Lösung sein konnte.\
 Seither benutzt man Ameisen- und Oxalsäure zur Behandlung. Komplett bekämpfen kann man die Varroa aber bis heute nicht. Die schädliche Milbe stellt daher auch aktuell noch das grösste Problem für Imker*innen dar. Jährlich müssen sie ihre Völker deshalb behandeln.
