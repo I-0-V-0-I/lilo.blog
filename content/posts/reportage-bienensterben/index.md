@@ -46,7 +46,7 @@ bis drei Jahren, wenn man nichts dagegen unternimmt.
 
 Herr Müller übernahm 1984 ein Bienenhaus mit einigen Völkern. Zu dieser Zeit trat auch die berüchtigte, aus Asien stammende, Varroamilbe erstmals in der Schweiz auf.\
 Herr Müller merkte zuerst selbst nicht viel davon, denn 1985 hatte er sein bestes Honigjahr. Pro Volk konnte er durchschnittlich 65 Kilogramm Honig ernten. In letzter Zeit sind es hingegen nur noch 20 Kilogramm pro Volk in einem Jahr.\
-Doch auch seine Bienen blieben nicht lange unverschont. Anfangs wurden die Völker mit Giftstreifen behandelt. Das tat auch Herr Müller. Doch als er im Herbst 1985 so einen Streifen in die Bienenkästen legte, starben darauf die meisten seiner kleinen Arbeiterinnen. 
+Doch auch seine Bienen blieben nicht lange unverschont. Anfangs wurden die Völker mit Giftstreifen behandelt. Das tat auch Herr Müller. Doch als er im Herbst 1985 so einen Streifen in die Bienenkästen legte, starben darauf die meisten seiner kleinen Arbeiterinnen. Mit etwas bedrückter Mienen äusserte er sich: 
 
 > «Als ich in diesem Jahr die Streifen wieder aus den Kästen genommen hatte, waren die meisten Bienen bereits tot.»
 
