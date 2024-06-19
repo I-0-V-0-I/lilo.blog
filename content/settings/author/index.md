@@ -1,6 +1,6 @@
 +++
 headless = true
-name = "My Name"
-image = "/img/default-author.jpg"
+name = "Yuuki Cabassu, Luca Schelling, Nao Schenker"
+image = "/media/samuelhaus-1.jpg"
 url = "/about/"
 +++
