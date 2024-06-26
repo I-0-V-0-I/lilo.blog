@@ -71,7 +71,7 @@ Für die Problematik mit den asiatischen Hornissen gibt es leider noch keine Lö
 
 <!--StartFragment-->
 
-### «Save the Bees» - ein grosses Missverständniss?  
+### «Save the Bees» - Ein grosses Missverständniss?  
 
 Der Begriff Bienensterben wird deshalb sehr oft benutzt, da tatsächlich sehr viele der kleinen Brummer sterben. Doch die Lage der Honigbienen sehe nicht so schlimm aus, wie in öffentlichen Diskussionen oft behauptet wird. Die Imker*innen sorgen dafür, dass ihre Völker möglichst gesund bleiben und immer mehr Völker entstehen können. Darum ist die Anzahl der Honigbienen seit 1961 sogar um circa 83 Prozent gestiegen.\
 Laut Herrn Weber kann die Imker\*innen sehr gut mit Erziehungsberechtigten vergleichen. Sie müssen auf ihre Völker aufpassen und für deren Gesundheit sorgen. Wenn die Imker\*innen nicht Sorge für ihre Nutztiere tragen, dann fliegen diese von ihrem Zuhause weg.
